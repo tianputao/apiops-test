@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/subscriptions/8cf1045d-f235-4fd3-beff-c67785d438b1/resourceGroups/apim-rg/providers/Microsoft.ApiManagement/service/tarhone-apim-test1/products/starter",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/8cf1045d-f235-4fd3-beff-c67785d438b1/resourceGroups/apim-rg/providers/Microsoft.ApiManagement/service/tarhone-apim-test1/users/1",
+    "state": "active"
+  }
+}

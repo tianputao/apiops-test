@@ -1,0 +1,9 @@
+{
+  "properties": {
+    "displayName": "tarhone_api_product",
+    "description": "test api",
+    "approvalRequired": false,
+    "state": "published",
+    "subscriptionRequired": true
+  }
+}

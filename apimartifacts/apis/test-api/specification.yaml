@@ -1,0 +1,32 @@
+openapi: 3.0.1
+info:
+  title: test api
+  description: ''
+  version: '1.0'
+servers:
+  - url: https://tarhone-apim-test1.azure-api.cn
+paths:
+  /test:
+    get:
+      summary: test mock all
+      operationId: test-mock-all
+      responses:
+        '200':
+          description: ''
+          content:
+            application/json:
+              example:
+                sampleField: 'Cool, it works'
+components:
+  securitySchemes:
+    apiKeyHeader:
+      type: apiKey
+      name: Ocp-Apim-Subscription-Key
+      in: header
+    apiKeyQuery:
+      type: apiKey
+      name: subscription-key
+      in: query
+security:
+  - apiKeyHeader: [ ]
+  - apiKeyQuery: [ ]

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "path": "llmopenai",
+    "apiRevision": "1",
+    "authenticationSettings": {},
+    "contact": {
+      "name": "OpenAI Support",
+      "url": "https://help.openai.com/"
+    },
+    "description": "The OpenAI REST API. Please see\nhttps://platform.openai.com/docs/api-reference for more details.",
+    "isCurrent": true,
+    "license": {
+      "name": "MIT",
+      "url": "https://github.com/openai/openai-openapi/blob/master/LICENSE"
+    },
+    "displayName": "test-openai-ai-gateway",
+    "protocols": [
+      "https"
+    ],
+    "subscriptionKeyParameterNames": {
+      "header": "api-key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": true,
+    "termsOfServiceUrl": "https://openai.com/policies/terms-of-use"
+  }
+}

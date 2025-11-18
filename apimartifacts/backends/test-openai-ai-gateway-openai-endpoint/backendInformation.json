@@ -1,0 +1,13 @@
+{
+  "properties": {
+    "credentials": {
+      "header": {
+        "gpt-4o": [
+          "{{test-openai-ai-gateway-gpt-4o-LLM}}"
+        ]
+      }
+    },
+    "protocol": "http",
+    "url": "https://foundryhubtarhone.services.ai.azure.com"
+  }
+}
