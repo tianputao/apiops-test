@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "displayName": "ratelimittest",
+    "secret": false,
+    "tags": [],
+    "value": "10"
+  }
+}
