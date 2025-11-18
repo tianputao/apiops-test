@@ -17,6 +17,7 @@
     "protocols": [
       "https"
     ],
+    "serviceUrl": "https://tarhone-apim-test1.azure-api.cn/llmopenai",
     "subscriptionKeyParameterNames": {
       "header": "api-key",
       "query": "subscription-key"
