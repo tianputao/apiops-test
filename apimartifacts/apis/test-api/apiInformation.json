@@ -9,6 +9,7 @@
     "protocols": [
       "https"
     ],
+    "serviceUrl": "https://tarhone-apim-test1.azure-api.cn",
     "subscriptionKeyParameterNames": {
       "header": "Ocp-Apim-Subscription-Key",
       "query": "subscription-key"

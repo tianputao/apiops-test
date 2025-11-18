@@ -5,7 +5,6 @@
     "approvalRequired": false,
     "state": "published",
     "subscriptionRequired": true,
-    "subscriptionsLimit": 1,
     "terms": ""
   }
 }

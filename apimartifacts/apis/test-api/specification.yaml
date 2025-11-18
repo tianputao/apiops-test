@@ -9,6 +9,7 @@ paths:
   /test:
     get:
       summary: test mock all
+      description: test mock all
       operationId: test-mock-all
       responses:
         '200':
