@@ -1,0 +1,23 @@
+{
+  "properties": {
+    "path": "conference",
+    "apiRevision": "1",
+    "apiRevisionDescription": "test new revision",
+    "apiVersion": "v1",
+    "apiVersionSetId": "/subscriptions/8cf1045d-f235-4fd3-beff-c67785d438b1/resourceGroups/apim-rg/providers/Microsoft.ApiManagement/service/tarhone-apim-test1/apiVersionSets/662d01e66a2a4dcb0b6125ab",
+    "authenticationSettings": {},
+    "description": "A sample API with information related to a technical conference.  The available resources  include *Speakers*, *Sessions* and *Topics*.  A single write operation is available to provide  feedback on a session.",
+    "isCurrent": true,
+    "displayName": "Demo Conference API",
+    "protocols": [
+      "http",
+      "https"
+    ],
+    "serviceUrl": "https://conferenceapi.azurewebsites.net",
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": true
+  }
+}
