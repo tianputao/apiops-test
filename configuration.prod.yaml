@@ -1,0 +1,7 @@
+apimServiceName: [prod or any other target environment apim instance name goes here]
+namedValues:
+  - name: ratelimittest
+    properties:
+      displayName: ratelimittest
+      value: "20"
+
